@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CameraRig
+  - Hand
+  - Stage
+  - HandMic
+  - MagicHand
+  - projectile
+  - FxTemporaire
+  - TeleportIgnore
+  - AppStage
+  - ExcludeTeleport
+  - Barricade
+  - Key
+  - Keyboard
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -13,28 +27,28 @@ TagManager:
   - UI
   - 
   - 
+  - Hand
+  - FIRSTPERSON_ONLY_LAYER
+  - THIRDPERSON_ONLY_LAYER
   - 
   - 
   - 
   - 
   - 
+  - OwnAvatar
+  - GrabbableUI
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - VenueLayer0
+  - VenueLayer1
+  - PostProcessing
+  - PerformerOnly
+  - Performer
+  - Audience
+  - Keyboard
+  - UIPointer
+  - GrabbableItem
+  - Nameplate
+  - VenueLayer2
   - 
   - 
   m_SortingLayers:
